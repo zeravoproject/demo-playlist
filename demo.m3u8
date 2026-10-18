@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Blender Open Movies TV" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="CHANNEL | Demo",Blender Open Movies TV
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Apple HLS Example" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="CHANNEL | Demo1",Apple HLS Example
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Apple HLS Example" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="CHANNEL | Demo1",Apple HLS Example
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Apple HLS Example" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="CHANNEL | Demo1",Apple HLS Example
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Apple HLS Example" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="CHANNEL | Demo1",Apple HLS Example
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Apple HLS Example" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="CHANNEL | Demo2",Apple HLS Example
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Apple HLS Example" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="CHANNEL | Demo3",Apple HLS Example
+https://devstreaming-cdn.apple.com/videos/streaming/examples/img_bipbop_adv_example_fmp4/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Big Buck Bunny (2008)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="MOVIES | Animação",Big Buck Bunny (2008)
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sintel (2010)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="MOVIES | Animação",Sintel (2010)
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tears of Steel (2012)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="MOVIES | Ficção",Tears of Steel (2012)
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tears of Steel (2013)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="MOVIES | Ficção",Tears of Steel (2012)
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Tears of Steel (2014)" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="MOVIES | Ficção",Tears of Steel (2012)
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blender Shorts S01E01" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="SERIES | Demo",Blender Shorts S01E01
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blender Shorts S01E02" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="SERIES | Demo",Blender Shorts S01E02
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blender Shorts S01E03" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="SERIES | Demo",Blender Shorts S01E03
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Blender Shorts S01E04" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/523380cb2d683438909c1b84ca093b3a24fc93a895fbf935526d1defe7b16004.jpg" group-title="SERIES | Demo",Blender Shorts S01E04
+https://test-videos.co.uk/vids/bigbuckbunny/mp4/h264/1080/Big_Buck_Bunny_1080_10s_1MB.mp4
